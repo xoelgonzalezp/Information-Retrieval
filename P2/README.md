@@ -1,5 +1,5 @@
 
-# mri-indexer
+# mri-searcher
 Práctica 2 de la asignatura de Recuperación de Información en la UDC.
 
 # Integrantes
